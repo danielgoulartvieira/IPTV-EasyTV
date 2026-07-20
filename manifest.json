@@ -1,0 +1,24 @@
+{
+  "name": "EasyTV Premium ",
+  "short_name": "EasyTV",
+  "description": "Plataforma Premium de Transmissão e Player Cinema",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#a3001b",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "images/logo-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "images/logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
